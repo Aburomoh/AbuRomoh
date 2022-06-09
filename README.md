@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aburomoh
 - 👀 I’m interested in neural networks applications in communication systems.
-- 🌱 I’m currently learning Keras to improve.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Tensor flowlibrary for unsupervised learning.
+- 💞️ I’m looking to collaborate on improving the unsupervised learning for autonomuous vehicles.
+- 📫 Feel free to reach me over email: mohannad.aburomoh@telecom-paris
 
 <!---
 Aburomoh/Aburomoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
