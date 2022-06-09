@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aburomoh
 - 👀 I’m interested in neural networks applications in communication systems.
-- 🌱 I’m currently learning Tensor flowlibrary for unsupervised learning.
+- 🌱 I’m currently learning Tensorflow on Python for unsupervised learning.
 - 💞️ I’m looking to collaborate on improving the unsupervised learning for autonomuous vehicles.
 - 📫 Feel free to reach me over email: mohannad.aburomoh@telecom-paris
 
