@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aburomoh
+- 👋 Hi, I’m @Aburomoh.. If my CV brought you here, this Github is currently under developement.
 - 👀 I’m interested in neural networks applications in communication systems.
 - 🌱 I’m currently learning Tensorflow on Python for unsupervised learning.
 - 💞️ I’m looking to collaborate on improving the unsupervised learning for autonomuous vehicles.
