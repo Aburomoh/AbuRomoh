@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aburomoh.. If my CV brought you here, this Github is currently under developement.
-- 👀 I’m interested in neural networks applications in communication systems.
-- 🌱 I’m currently learning Tensorflow on Python for unsupervised learning.
-- 💞️ I’m looking to collaborate on improving the unsupervised learning for autonomuous vehicles.
-- 📫 Feel free to reach me over email: mohannad.aburomoh@telecom-paris
+- 👋 Hi, I’m @Aburomoh. If my CV brought you here, please note that this GitHub repository is currently under development.
+- 👀 I’m interested in machine learning applications in communication systems.
+- 🌱 I’m currently learning TensorFlow in Python for machine learning, specifically neural networks.
+- 💞️ I’m looking to collaborate on innovating new methods for optical fiber channel equalization based on neural networks.
+- 📫 Feel free to reach me via email: mohannad.aburomoh@telecom-paris.fr
 
 <!---
 Aburomoh/Aburomoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
