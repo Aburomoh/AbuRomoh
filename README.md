@@ -1,4 +1,4 @@
-Hi, I’m @Aburomoh. I’m interested in machine learning applications in communication systems.
+Hi, I’m @Mohanad. I’m interested in machine learning applications in communication systems.
 I’m currently learning TensorFlow in Python for machine learning, specifically neural networks.
 I’m looking to collaborate on innovating new methods for optical fiber channel equalization based on neural networks.
 Feel free to reach me via email: mnaburomoh@outlook.com
